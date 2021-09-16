@@ -1,6 +1,6 @@
 # Personal-Assistant
 All about website in scss
 
-`Personal App Completed!`
+`Personal Assistant App Completed!`
 
 ![Screenshot](assets/img/screenshot.png)
